@@ -1,1 +1,1 @@
-# ML-DL-projects
+# ML/DL-projects
